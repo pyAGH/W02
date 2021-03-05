@@ -17,3 +17,6 @@ interpolation,roots
 
 # Interpolation/trigonometric
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/W02/HEAD?filepath=101_InterpolationTrig.ipynb)
+
+# Interpolation/sciPy
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/W02/HEAD?filepath=102_InterpolationSciPy.ipynb)
