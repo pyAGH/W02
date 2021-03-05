@@ -14,3 +14,6 @@ interpolation,roots
 
 # Roots/newton
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/W02/HEAD?filepath=04_Newton.ipynb)
+
+# Interpolation/trigonometric
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/W02/HEAD?filepath=101_InterpolationTrig.ipynb)
