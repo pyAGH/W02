@@ -8,3 +8,6 @@ interpolation,roots
 
 # Roots/regula_falsi
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/W02/HEAD?filepath=02_RegulaFalsi.ipynb)
+
+# Roots/secant
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/W02/HEAD?filepath=03_Secant.ipynb)
