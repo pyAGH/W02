@@ -11,3 +11,6 @@ interpolation,roots
 
 # Roots/secant
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/W02/HEAD?filepath=03_Secant.ipynb)
+
+# Roots/newton
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/W02/HEAD?filepath=04_Newton.ipynb)
